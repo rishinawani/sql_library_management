@@ -13,4 +13,4 @@ Utilize CTAS to create new tables based on query results.
 ### Advanced SQL Queries: 
 Develop complex queries to analyze and retrieve specific data.
 ## ERD Diagram
-ERD.PNG
+[ERD.PNG](https://github.com/rishinawani/sql_library_management/blob/main/ERD.PNG)
