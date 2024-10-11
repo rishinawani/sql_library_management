@@ -1,4 +1,4 @@
-# sql_library_management
+# sql_library_management -SQL Project
 ## Project Overview
 ### Project Title: Library Management System
 ### Database: library_manag
